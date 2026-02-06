@@ -28,10 +28,10 @@
   - `b5e4768` — feat(search): implementa busca exata com fuzzy matching
   - `e2edf0f` — feat(keywords): adiciona busca por palavras individuais (split_words)
   - `b99bace` — feat(reports): adiciona screenshots do PDF no relatório
-  - `36e67a4` — feat(reports): le keywords dos arquivos .txt ao inves do banco
+  - `36e67a4` — feat(reports): lê keywords dos arquivos .txt ao invés do banco
   - `286bd3e` — refactor(search): remove busca por palavras individuais
   - `57980ec` — fix(search): elimina falsos positivos com validação de word boundary
-  - `ade5188` — fix(reports): aumenta area de captura e mostra todos os matches
+  - `ade5188` — fix(reports): aumenta área de captura e mostra todos os matches
   - `ce0c145` — fix(screenshot): adiciona destaque visual nas keywords encontradas
   - `a172ca1` — config(search): aumenta threshold do fuzzy search para 98%
   - `e154e31` — chore: remove documentação redundante e obsoleta
